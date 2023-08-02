@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ShoppingCart</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="msg">"Thank you for purchasing %1$s. You will soon receive an email confirming the order. Your order will be shipped within 4-5 days. "</string>
+</resources>

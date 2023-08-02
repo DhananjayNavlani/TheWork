@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PracticeCode</string>
+    <string name="message">I am %1s, my age is %2d\n</string>
+    <string name="confirm_reset">Resetting List\n</string>
+    <string name="confirm_reset_message">Are you sure you want to reset the list ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="in_desp">India is a country in South Asia that occupies most of the Indian subcontinent.</string>
+    <string name="uk_desp">Northern Ireland, or simply the United Kingdom (UK), is a sovereign country in Western Europe. </string>
+    <string name="us_desp">The United States of America is a federal republic of 50 states. It is the world\'s third largest country in size and nearly the third largest in terms of population.</string>
+    <string name="wl_desp">Wales – a country that is part of the United Kingdom, bordered by England to its east and the Atlantic Ocean and Irish Sea to its west.</string>
+    <string name="pr_desp">Puerto Rico is a self-governing island commonwealth of the West Indies, associated with the United States. </string>
+    <string name="np_desp">Nepal is a landlocked country located between India to the east, south, and west and the Tibet Autonomous Region of China to the north.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>

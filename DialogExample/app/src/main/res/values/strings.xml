@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DialogExample</string>
+    <string name="confirm_reset">Resetting List\n</string>
+    <string name="confirm_reset_message">Are you sure to delete the list?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="country_name">Country</string>
+    <string name="city_name">City</string>
+    <string name="reset">Reset</string>
+    <string name="total">Total Expense: $ %1d</string>
+
+</resources>

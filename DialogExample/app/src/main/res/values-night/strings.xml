@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_reset">Resetting List\n</string>
+    <string name="confirm_reset_message">Are you sure to delete the list?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
