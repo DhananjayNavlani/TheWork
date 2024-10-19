@@ -1,12 +1,14 @@
 package com.example.practicecode
 
 import android.content.Context
+import android.graphics.drawable.TransitionDrawable
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.Button
+import android.widget.EditText
 import android.widget.Toast
 import java.lang.ClassCastException
 
@@ -36,6 +38,12 @@ class OneFragment : Fragment() {
 
             msgListener?.onMsgClick()
         }
+        val edit = view.findViewById<EditText>(R.id.text_name)
+        val dd = edit.compoundDrawables.get(2).setVisible(false,true)
+//        if(dd is TransitionDrawable){
+//            dd.startTransition(1000);
+//        }
+
         return view
     }
 

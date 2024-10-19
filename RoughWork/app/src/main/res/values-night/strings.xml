@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LatencyTesting</string>
+    <string name="supabase_task_read_time">Task read time: %1$d ms</string>
+    <string name="room_task_insertion">Task insertion time: %1$d ms</string>
+    <string name="supabase_category_read_time">Category read time: %1$d ms</string>
+    <string name="room_categories_insertion_time">Categories insertion time: %1$d ms</string>
+    <string name="room_task_deletion_time">Task deletion time: %1$d ms</string>
+    <string name="room_categories_deletion_time">Category deletion time: %1$d ms</string>
+    <string name="room_task_read_time">Task read time: %1$d ms</string>
+    <string name="room_categories_read_time">Category read time: %1$d ms</string>
+    <string name="supabase_record_insertion_time">Insertion response time: %1$d ms</string>
+    <string name="supabase_priority_read_time">Priority read time: %1$d ms</string>
+    <string name="supabase_record_count">Online record count: %1$d</string>
+    <string name="room_priority_insertion_time">Priority insertion time: %1$d ms</string>
+    <string name="room_priority_deletion_time">Priority time taken: %1$d ms</string>
+    <string name="room_priority_read_time">Priority read time: %1$d ms</string>
+    <string name="room_category_task_read_time">Category INNER JOIN Task fetch time: %1$d ms</string>
+    <string name="room_priority_task_read_time">Priority INNER JOIN Task fetch time: %1$d ms</string>
+    <string name="room_time_for_update_record">Time taken for update: %1$d ms</string>
+    <string name="room_time_for_insert_record">Time taken to insert: %1$d ms</string>
+    <string name="room_time_for_delete_record">Time taken to delete: %1$d ms</string>
+    <string name="time_to_sync">Time taken for sync: %1$d ms</string>
+</resources>

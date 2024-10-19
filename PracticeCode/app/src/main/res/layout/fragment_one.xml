@@ -10,21 +10,24 @@
 
     <!-- TODO: Update blank fragment layout -->
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center_horizontal"
-        android:gravity="center"
-        android:text="@string/hello_blank_fragment"
-        android:textColor="#03A9F4"
-        android:textSize="48sp"
-        android:textStyle="bold" />
-
     <Button
         android:id="@+id/show_amessage"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:text="SHOW ACTIVITY MESSAGE" />
+
+    <EditText
+        android:id="@+id/text_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableRight="@drawable/ic_password_visible"
+        android:ems="10"
+        android:inputType="text"
+        android:text="Name" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
 
 </FrameLayout>
